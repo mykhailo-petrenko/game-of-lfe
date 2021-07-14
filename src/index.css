@@ -47,6 +47,10 @@ html, body {
   font-size: 1.5em;
 }
 
+.controls button + button {
+  margin-left: 1em;
+}
+
 .grid {
 
 }
